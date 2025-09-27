@@ -65,7 +65,7 @@ Wireless-Charging-Receiver-Dock/
 
 ### Schematic Example
 
-![Schematic](result/pcb%20\(2\).png)
+![Schematic](result/board.png)
 
 ---
 
